@@ -1,0 +1,7 @@
+.MainDash {
+    padding-top: 1rem;
+    padding-left: 3rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
